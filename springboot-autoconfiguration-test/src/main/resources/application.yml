@@ -1,0 +1,4 @@
+aliyun:
+  oss:
+    endpoint: https://oss-cn-guangzhou.aliyuncs.com
+    bucketName: javaweb-heimatilas

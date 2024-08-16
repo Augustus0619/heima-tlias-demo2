@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-starter/aliyun-oss-spring-boot-starter.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-starter/aliyun-oss-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/heima-tilas-web-management-2.iml" filepath="$PROJECT_DIR$/.idea/heima-tilas-web-management-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itheima-utils/itheima-utils.iml" filepath="$PROJECT_DIR$/itheima-utils/itheima-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" filepath="$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heima-tilas-web-management-2demo/tlias-web-management.iml" filepath="$PROJECT_DIR$/heima-tilas-web-management-2demo/tlias-web-management.iml" />
+    </modules>
+  </component>
+</project>
